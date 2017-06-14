@@ -1,4 +1,0 @@
-1 eat
-2 sleep
-3 CODE
-4 repeat
